@@ -1,0 +1,52 @@
+@media screen and (max-width: 850px) and (min-width: 576px) {
+  html {
+    padding: 0 40px;
+  }
+  .bookmarks {
+    display: none;
+  }
+  .git {
+    display: none;
+  }
+  .t-h1 {
+    font-size: 42px;
+    font-weight: 100;
+    margin-top: 20px;
+    line-height: 53px;
+  }
+  br {
+    display: none;
+  }
+  .burger {
+    display: block;
+    margin-left: auto;
+  }
+  .logos {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: unset;
+  }
+  .logo {
+    margin-top: 15px;
+    flex: 1 0 30%;
+  }
+  .cards {
+    display: block;
+  }
+  .iim {
+    width: 100%;
+  }
+  .card {
+    margin-bottom: 45px;
+  }
+  .gray {
+    display: block;
+  }
+  .left {
+    margin-bottom: 5rem;
+  }
+  .git2 {
+    width: 10rem;
+  }
+}
